@@ -1,0 +1,5 @@
+# Local agent rules & build artifacts
+.agent/
+[Bb]in/
+[Oo]bj/
+.DS_Store
